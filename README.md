@@ -23,8 +23,7 @@ The feature selection techniques used are:
 2.Wrapper Method
 3.Embedded Method
 
-## Developed By : PARANTHAMAN S
-## Reg_No       : 212224040232
+
 
 # CODING AND OUTPUT:
 
